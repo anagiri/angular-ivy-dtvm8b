@@ -1,0 +1,7 @@
+p {
+  font-family: Lato;
+}
+
+.custom-dialog-overlay {
+    background: rgba(125, 125, 125, 0.9);
+}
